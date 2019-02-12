@@ -10,7 +10,7 @@
 
 
 
-![container_structure](./docker.png)
+![container_structure](./docker.PNG)
 
 ## Fundamental Docker Concepts
 
