@@ -8,7 +8,9 @@
 
 ![vm vs container](./vm.PNG )
 
-![container structure](./docker.png)
+
+
+![container_structure](./docker.png)
 
 ## Fundamental Docker Concepts
 
