@@ -12,6 +12,8 @@
 
 ![container_structure](./docker.png)
 
+
+
 ## Fundamental Docker Concepts
 
 ![concept](./concept_of_docker.PNG)
@@ -246,7 +248,7 @@ Volumes are the “data” part of a container, initialized when a container is 
 
 A Docker container, as discussed above, wraps an application’s software into an invisible box with everything the application needs to run. That includes the operating system, application code, runtime, system tools, system libraries, and etc. Docker containers are built off Docker images. Since images are read-only, Docker adds a read-write file system over the read-only file system of the image to create a container.
 
-![layer](./container_layer.jpg)
+![layer](./container_layer.JPG)
 
 Moreover, then creating the container, Docker creates a network interface so that the container can talk to the local host, attaches an available IP address to the container, and executes the process that you specified to run your application when defining the image.
 
